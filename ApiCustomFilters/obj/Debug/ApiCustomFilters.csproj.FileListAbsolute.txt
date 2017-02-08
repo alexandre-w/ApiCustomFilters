@@ -1,0 +1,126 @@
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\csc.exe
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\vbc.exe
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\VBCSCompiler.exe
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\ApiCustomFilters.dll.config
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\ApiCustomFilters.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\ApiCustomFilters.pdb
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Antlr3.Runtime.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.Owin.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Newtonsoft.Json.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Owin.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Net.Http.Formatting.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Helpers.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.Owin.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.WebHost.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Mvc.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Optimization.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Razor.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.Razor.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\WebGrease.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.Owin.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.Owin.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Newtonsoft.Json.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Net.Http.Formatting.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Helpers.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.WebHost.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Mvc.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Optimization.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Razor.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.Razor.xml
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\Antlr3.Runtime.pdb
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Http.resources.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Razor.resources.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\obj\Debug\ApiCustomFilters.csprojResolveAssemblyReference.cache
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\obj\Debug\ApiCustomFilters.dll
+C:\Users\wetta\Documents\Visual Studio 2015\Projects\ApiCustomFilters\ApiCustomFilters\obj\Debug\ApiCustomFilters.pdb
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\csc.exe
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\vbc.exe
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\ApiCustomFilters.dll.config
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\ApiCustomFilters.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\ApiCustomFilters.pdb
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.Owin.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Owin.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Net.Http.Formatting.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Helpers.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.Owin.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.WebHost.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Mvc.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Optimization.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Razor.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\WebGrease.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.Owin.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.Owin.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Net.Http.Formatting.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Helpers.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Http.WebHost.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Mvc.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Optimization.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.Razor.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Http.resources.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\obj\Debug\ApiCustomFilters.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\obj\Debug\ApiCustomFilters.dll
+C:\Users\Alex\Documents\GitHub\ApiCustomFilters\ApiCustomFilters\obj\Debug\ApiCustomFilters.pdb
